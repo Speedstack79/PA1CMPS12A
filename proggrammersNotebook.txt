@@ -1,0 +1,6 @@
+Programming Assignment 1
+
+Welp... guess I have to learn what StringBuffer does now...
+Also I guess I have to learn the Random class too..
+
+Okay so to construct from the Random class goes as follows: Random objName = new Random() // Yes with empty parameters 
